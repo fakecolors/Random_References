@@ -1,0 +1,4 @@
+py3-pinterest==1.2.2
+aiogram==2.19
+asyncio==3.4.3
+aioschedule==0.5.2
